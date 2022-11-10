@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
 
         <p>SUPREME STORE é expert nos cuidados com a moda, realizando constantes investimentos em novos vestuários da moda</p>
-
+<p>teste</p>
        
 
         <div className={styles.grid}>
